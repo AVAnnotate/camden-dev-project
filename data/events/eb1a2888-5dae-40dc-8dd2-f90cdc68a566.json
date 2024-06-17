@@ -1,18 +1,1 @@
-{
-  "audiovisual_files": [
-    {
-      "label": "S1576, T86-245",
-      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-243.mp3",
-      "duration": 3530
-    }
-  ],
-  "auto_generate_web_page": true,
-  "description": "I'm the third example even.t",
-  "citation": null,
-  "created_at": "2024-06-06T20:19:25+0000",
-  "created_by": "tanyaclement",
-  "item_type": "Audio",
-  "label": "S1576, T86-245",
-  "updated_at": "2024-06-06T20:19:25+0000",
-  "updated_by": "tanyaclement"
-}
+{"uuid":"eb1a2888-5dae-40dc-8dd2-f90cdc68a566","audiovisual_files":[{"label":"S1576, T86-245","file_url":"https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-243.mp3","duration":3530}],"auto_generate_web_page":true,"description":[{"type":"paragraph","children":[{"text":"I'm","bold":true},{"text":" a "},{"text":"test","italic":true},{"text":"!"}]}],"citation":null,"created_at":"2024-06-06T20:19:25+0000","created_by":"tanyaclement","item_type":"Audio","label":"S1576, T86-245","updated_at":"2024-06-17T20:18:59.197Z","updated_by":"camdendotlol"}
