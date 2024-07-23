@@ -1,1 +1,27 @@
-{"audiovisual_files":{"887b5f34-ac98-4bc2-8316-2dbf6017a7e0":{"label":"test","file_url":"test","duration":781}},"auto_generate_web_page":true,"description":[],"citation":"","item_type":"Audio","label":"test 2","created_at":"2024-07-11T18:43:58.052Z","created_by":"camdendotlol","updated_at":"2024-07-11T18:43:58.052Z","updated_by":"camdendotlol"}
+{
+  "audiovisual_files": {
+    "887b5f34-ac98-4bc2-8316-2dbf6017a7e0": {
+      "label": "test",
+      "file_url": "test",
+      "duration": 781
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "test 2",
+  "created_at": "2024-07-11T18:43:58.052Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-07-11T18:43:58.052Z",
+  "updated_by": "camdendotlol"
+}
